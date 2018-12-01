@@ -15,5 +15,5 @@ Thanks,
  anggaand123@gmail.com
 
 ## Support
-If you use this to further your career, or put money in your pocket, and would like to support the project please consider a 
+If you use this to furthers your career, or put money in your pocket, and would like to support the project please consider a 
 - BTC (3DJis66qG8uLGfj3BKdpPn52Tw5YKfSVtT)
